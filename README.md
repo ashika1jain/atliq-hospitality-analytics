@@ -75,12 +75,13 @@ RevPAR, ADR, Occupancy %, DSRN, DBRN, DURN, Realisation %, Cancellation Rate —
 - `AtliQ_Problem_Statement.docx` — full project scope, dataset description, and KPI definitions
 - `meta_data_hospitality.txt` — column descriptions for all tables
 - `data/` — 5 raw CSV files (dim_date, dim_hotels, dim_rooms, fact_aggregated_bookings, fact_bookings)
-- `metrics list.xlsx — List of all the metrics used in the project
-- `screenshots/` — screenshots of the dashbaord for the project
+- `metrics list.xlsx` — List of all the metrics used in the project
+- `screenshots/` — screenshots of the dashboard for the project
+- `dashboard.pbix` — Power BI dashboard file
 
 ---
 
-## reference
+## Note on Dataset
 Built on the Codebasics hospitality dataset, extended with additional business analysis and recommendations beyond the guided project.
 
 ---
