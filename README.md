@@ -3,6 +3,19 @@
 A Power BI dashboard built for AtliQ Hotels' revenue management team. The goal was simple: stop making pricing decisions based on gut feeling and start making them based on data.
 
 ---
+## Dashboard Preview
+
+![Main Dashboard](screenshots/dashboard_main.png)
+
+### Trend Analysis Pages
+![Revenue by Week](screenshots/revenue_by_week.png)
+![RevPAR by Week](screenshots/revpar_by_week.png)
+![ADR by Week](screenshots/adr_by_week.png)
+![Occupancy by Week](screenshots/occupancy_by_week.png)
+![Realisation by Week](screenshots/realisation_by_week.png)
+![DSRN by Week](screenshots/dsrn_by_week.png)
+
+---
 
 ## What this project is about
 
@@ -63,7 +76,11 @@ RevPAR, ADR, Occupancy %, DSRN, DBRN, DURN, Realisation %, Cancellation Rate —
 - `meta_data_hospitality.txt` — column descriptions for all tables
 - `data/` — 5 raw CSV files (dim_date, dim_hotels, dim_rooms, fact_aggregated_bookings, fact_bookings)
 - `metrics list.xlsx — List of all the metrics used in the project
+- `screenshots/` — screenshots of the dashbaord for the project
 
 ---
 
+## reference
+Built on the Codebasics hospitality dataset, extended with additional business analysis and recommendations beyond the guided project.
 
+---
